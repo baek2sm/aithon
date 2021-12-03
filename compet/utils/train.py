@@ -3,7 +3,7 @@ import numpy as np
 import torch
 
 
-def set_random_seed(seed):
+def set_random_seed(seed=0):
     """Set a random seed for reproducibility
     :param seed: It is a number used to initialize a pseudorandom number generator.
     :return: None
