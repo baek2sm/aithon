@@ -3,3 +3,6 @@
 
 # IDE stuff
 .idea/
+
+# for test
+samples/
