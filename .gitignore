@@ -4,5 +4,8 @@
 # IDE stuff
 .idea/
 
+# Cache stuff
+__pycache__
+
 # for test
 samples/
