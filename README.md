@@ -1,4 +1,4 @@
-# hackathon
+# HACKATHON
 Hackathon is a library for use in AI competitions.
 
 # Copyright
