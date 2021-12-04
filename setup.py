@@ -1,14 +1,14 @@
 import setuptools
 
 setuptools.setup(
-    name='hackathon',
+    name='aithon',
     version='0.0.1',
     license='MIT',
     author='SeungBaek Hong',
     author_email='baek2sm@gmail.com',
-    description='Hackathon is a library for use in AI competitions.',
+    description='Aithon is a library for use in AI hackathon.',
     long_description=open('README.md').read(),
-    url='https://github.com/baek2sm/hackathon',
+    url='https://github.com/baek2sm/aithon',
     packages=setuptools.find_packages(),
     classifiers=[
         'License :: OSI Approved :: MIT License',

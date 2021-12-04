@@ -10,7 +10,7 @@ __pycache__
 # Distribution
 build/
 dist/
-hackathon.egg-info/
+aithon.egg-info/
 
 # for test
 samples/
