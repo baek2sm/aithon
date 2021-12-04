@@ -7,5 +7,10 @@
 # Cache stuff
 __pycache__
 
+# Distribution
+build/
+dist/
+hackathon.egg-info/
+
 # for test
 samples/
